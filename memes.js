@@ -10,5 +10,12 @@ const memes = [
     titulo: "..",
     imagenUrl: "https://www.infobae.com/resizer/v2/U7AABPYQEVELLBB6B7IEOFBZOY.png?auth=ab96bc36e9d8efd6b65b088255fe3ee45ff177ea01958711984f85bab0244201&smart=true&width=992&height=913&quality=85",
     descripcion: ".."
+  },
+
+  {
+    autor: "Ezequiel",
+    titulo: "..",
+    imagenUrl: "https://es.memedroid.com/memes/detail/4720413/Exactamente?refGallery=tags&page=1&tag=que+genio",
+    descripcion: ".."
   }
 ];
