@@ -17,5 +17,11 @@ const memes = [
     titulo: "..",
     imagenUrl: "https://es.memedroid.com/memes/detail/4720413/Exactamente?refGallery=tags&page=1&tag=que+genio",
     descripcion: ".."
+  },
+  {
+    autor: "Tiago",
+    titulo: "Momardo",
+    imagenUrl: "https://www.magnific.com/es/fotos-vectores-gratis/meme",
+    descripcion: "Gato"
   }
 ];
