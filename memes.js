@@ -15,7 +15,7 @@ const memes = [
   {
     autor: "Ezequiel",
     titulo: "..",
-    imagenUrl: "https://es.memedroid.com/memes/detail/4720413/Exactamente?refGallery=tags&page=1&tag=que+genio",
+    imagenUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUPmsh1jzps5Mxakkj8Ah9TMq-EveLUcMpdo5lnCdaiLyRaQfvryGMdw&s=10",
     descripcion: ".."
   }
 ];
