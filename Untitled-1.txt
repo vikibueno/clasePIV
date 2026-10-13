@@ -1,0 +1,4 @@
+Nombre: Vicente
+Fecha: 6/10
+Mi primer comando de Git fue: git init
+Hoy aprendí a usar git add y git commit para guardar cambios locales.
