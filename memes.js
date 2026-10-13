@@ -13,7 +13,7 @@ const memes = [
   },
    {
     autor: "Vicente",
-    titulo: "..",
+    titulo: "GENIO",
     imagenUrl: "https://pin.it/6brwkl4Dn",
     descripcion: ".."
   }
