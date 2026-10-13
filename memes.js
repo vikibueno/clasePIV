@@ -22,6 +22,6 @@ const memes = [
     autor: "Tiago",
     titulo: "Momardo",
     imagenUrl: "https://www.magnific.com/es/fotos-vectores-gratis/meme",
-    descripcion: "Gato"
+    descripcion: "Gatoo"
   }
 ];
