@@ -14,7 +14,7 @@ const memes = [
   {
     autor: "Vicente",
     titulo: "..",
-    imagenUrl: "https://www.infobae.com/resizer/v2/U7AABPYQEVELLBB6B7IEOFBZOY.png?auth=ab96bc36e9d8efd6b65b088255fe3ee45ff177ea01958711984f85bab0244201&smart=true&width=992&height=913&quality=85",
+    imagenUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQO4h1cqd1KDN-dk0JFOeTfRE5uYFfRoy-z9k_Ume5PdEFuK64aRqoLKau&s=10",
     descripcion: ".."
   }
 ];
