@@ -16,5 +16,11 @@ const memes = [
     titulo: "..",
     imagenUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUPmsh1jzps5Mxakkj8Ah9TMq-EveLUcMpdo5lnCdaiLyRaQfvryGMdw&s=10",
     descripcion: ".."
+  },
+  {
+    autor: "Fabri",
+    titulo: "Momo Benavidez.",
+    imagenUrl: "https://preview.redd.it/y-esa-silla-de-virgo-momo-v0-emxyt0cohcjb1.png?width=759&format=png&auto=webp&s=885b8582096c9bc23cfb36dca20720a8f01860bf",
+    descripcion: "Soldado"
   }
 ];
