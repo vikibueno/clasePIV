@@ -22,5 +22,11 @@ const memes = [
     titulo: "..",
     imagenUrl: "https://www.bing.com/images/search?view=detailV2&ccid=KlSi0HdG&id=71C346A7394D31BA6C0FF9792BB430FA4E7D414B&thid=OIP.KlSi0HdGwPUHVVbFWHskoAHaF_&mediaurl=https%3a%2f%2fwww.boredpanda.com%2fblog%2fwp-content%2fuploads%2f2022%2f09%2frelatable-funny-memes-23-63281fd2f1184__700.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2a54a2d07746c0f5075556c5587b24a0%3frik%3dS0F9TvowtCt5%252bQ%26pid%3dImgRaw%26r%3d0&exph=567&expw=700&q=memes&FORM=IRPRST&ck=FB34D69EEFA2CC444F0C2F9DEC8DD80F&selectedIndex=10&itb=0",
     descripcion: ".."
+  },
+  {
+    autor: "Bautista",
+    titulo: "..",
+    imagenUrl: "https://www.bing.com/images/search?view=detailV2&ccid=cVbdBKDP&id=1772266CD8226C1BC0A523CBABF1DA8F08C1D4F4&thid=OIP.cVbdBKDPPXG2h-jdvzoyTAHaEJ&mediaurl=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F047%2F549%2Fkurt_angle_meme.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7156dd04a0cf3d71b687e8ddbf3a324c%3Frik%3D9NTBCI%252fa8avLIw%26pid%3DImgRaw%26r%3D0&exph=1680&expw=3000&q=meme&form=IRPRST&ck=BE58207D5FF3517EB6C16D8BE88E01FF&selectedindex=2&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11",
+    descripcion: ".."
   }
 ];
